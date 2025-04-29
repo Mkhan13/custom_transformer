@@ -11,7 +11,7 @@ The Transformer is initialized with the following hyperparameters:
 These default values are based on the BERT model architecture.
 
 ## Key Components
-```positional_encoding:``` Generates sine/cosine-based encodings to inject position information into the token embeddings.
+```_generate_positional_encoding:``` Generates sine/cosine-based encodings to inject position information into the token embeddings.
 
 ```_multi_head_attention:``` Implements scaled dot-product attention with softmax normalization.
 
