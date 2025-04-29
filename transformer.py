@@ -80,10 +80,3 @@ class Transformer:
         
         # Return processed output
         return x
-    
-''' 
-Resources:
-Medium: https://medium.com/@hhpatil001/transformers-from-scratch-in-simple-python-part-i-b290760c1040
-Pylessons: https://pylessons.com/transformers-introduction
-Machine Learning Mastery: https://machinelearningmastery.com/the-transformer-model/
-'''
